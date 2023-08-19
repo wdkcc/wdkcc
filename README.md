@@ -6,7 +6,7 @@
 </div>
   
 <!-- 敲代码的图片 -->
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </div>
 
