@@ -6,7 +6,9 @@
 </div>
   
 <!-- 敲代码的图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
