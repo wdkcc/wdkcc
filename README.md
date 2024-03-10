@@ -8,14 +8,4 @@
     
   <!-- 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wdkcc/wdkcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wdkcc/wdkcc/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wdkcc/wdkcc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
 
-<!-- 统计仓库语言类别及占比 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdkcc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
